@@ -5,15 +5,15 @@
 
 ## 项目展示
 ### 竞赛场地布局
-![竞赛场地布局](./images/track_layout.jpg)
+![微信图片_20250112124409](https://github.com/user-attachments/assets/f5e660fa-6191-4f62-8f21-1d679778b780)
 *竞赛场地包含二维码扫描区域、载货区域和三个投放区域，黑色引导线用于小车循迹*
 
 ### 智能小车实物
-![智能小车实物](./images/smart_car.jpg)
+![微信图片_20250112124404](https://github.com/user-attachments/assets/98100b52-f289-4e3b-b1c9-dc428db0af49)
 *搭载OpenMV的四轮麦克纳姆轮智能小车，可实现全向移动*
 
 ### 控制系统硬件
-![控制系统硬件](./images/control_system.jpg)
+![微信图片_20250112124359](https://github.com/user-attachments/assets/22c44c27-e51f-421f-9457-4f07fb2c4d18)
 *基于STM32H750的控制系统，集成触摸屏、各类传感器和通信模块*
 
 ## 主要功能
